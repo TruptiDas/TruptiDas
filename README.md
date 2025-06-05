@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on new sources that interests me
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When anybody asks me what are are my Hobbies?
-- My Answer is that Probably Everything 🫠
+- ⚡ Fun fact: When anybody asks me what  are my Hobbies?
+- My Answer to that is  Probably Everything 🫠
 
 <!---
 TruptiDas/TruptiDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
